@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProyectoVinos</string>
+    <string name="btnCrearVino">Añadir Vino</string>
+    <string name="id">id:</string>
+    <string name="nombre">nombre:</string>
+    <string name="bodega">bodega:</string>
+    <string name="color">color:</string>
+    <string name="origen">origen:</string>
+    <string name="fecha">fecha:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="a_adir">Añadir</string>
+    <string name="graduaci_n">graduación:</string>
+    <string name="fileName">Vinos.csv</string>
+</resources>
